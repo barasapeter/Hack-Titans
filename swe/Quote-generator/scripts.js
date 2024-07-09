@@ -14,7 +14,7 @@ const SUCCESS_QUOTES = [
   "The road to success and the road to failure are almost exactly the same."
 ];
 
-// Define the generateQuotes function
+
 function generateQuotes(numQuotes, quoteType) {
   let quotes = quoteType === 'life' ? LIFE_QUOTES : SUCCESS_QUOTES;
   let generatedQuotes = new Set();
