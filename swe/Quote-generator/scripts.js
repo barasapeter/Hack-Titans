@@ -32,7 +32,7 @@ function generateQuotes(numQuotes, quoteType) {
   }
 }
 
-// Add a click event listener to the generate button
+
 let generateBtn = document.getElementById('generate-btn');
 generateBtn.addEventListener('click', (event) => {
   let numQuotes = document.getElementById('num-quotes').value;
