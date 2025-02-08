@@ -4,4 +4,3 @@ All projects in the Luna Hackathon 2023
 ### George Mwangi
 ### Vanessa Kezia
 ### Peter Barasa
-
